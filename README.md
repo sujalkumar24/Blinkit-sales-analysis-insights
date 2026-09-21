@@ -54,3 +54,12 @@ This project helped me strengthen my practical understanding of Power BI dashboa
 More importantly, I learned that a good dashboard isn't just about creating charts — it's about answering business questions with data.
 
 I'm continuously building projects to improve my skills as a Data Analyst and looking forward to applying these skills to real-world business problems.
+---
+
+## Dashboard Preview
+
+[Blinkit Sales Dashboard]
+
+## Dashboard snapshot
+
+[Blinkit Sales Dashboard](https://github.com/sujalkumar24/Blinkit-sales-analysis-insights/raw/main/blinkit%20sales%20snapshots/dashboard.png))
