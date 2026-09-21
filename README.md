@@ -62,4 +62,4 @@ I'm continuously building projects to improve my skills as a Data Analyst and lo
 
 ## Dashboard snapshot
 
-[Blinkit Sales Dashboard](https://github.com/sujalkumar24/Blinkit-sales-analysis-insights/raw/main/blinkit%20sales%20snapshots/dashboard.png))
+[Blinkit Sales Dashboard](https://github.com/sujalkumar24/Blinkit-sales-analysis-insights/blob/main/blinkit%20sales%20snapshots/snapshot.png)
